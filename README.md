@@ -1,0 +1,1 @@
+A Simple Go application that can perform GET requests on HTTP endpoints and print out the plain text response of the response. It can also unmarshal the JSON response into struct objects
